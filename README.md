@@ -25,4 +25,4 @@ Para executar a API é só dar o seguinte comando abaixo no arquivo server.js qu
 node server.js
 
 
-Autor
+Autor Maria Julia
